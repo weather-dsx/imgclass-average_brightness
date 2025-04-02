@@ -31,11 +31,11 @@
 │      R-C_bucket_classified.jpg
 │      Screenshot_2025-02-26-19-01-11-413_bucket_classified.jpg
 │
-├─input_img \\ 输入图片文件夹
-│      1739949031750.jpg
-│      20210101142830.jpg
-│      OIP-C.jpg
-│      R-C.jpg
-│      Screenshot_2025-02-26-19-01-11-413.png
+└─input_img \\ 输入图片文件夹
+      1739949031750.jpg
+      20210101142830.jpg
+      OIP-C.jpg
+      R-C.jpg
+      Screenshot_2025-02-26-19-01-11-413.png
 ```
 ---

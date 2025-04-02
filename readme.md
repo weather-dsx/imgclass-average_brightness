@@ -37,7 +37,5 @@
 │      OIP-C.jpg
 │      R-C.jpg
 │      Screenshot_2025-02-26-19-01-11-413.png
-│
-└─judge
 ```
 ---
